@@ -1,4 +1,4 @@
 public class Run {
     int y;
-    int x;
+    int x  =0;
 }
