@@ -1,3 +1,3 @@
 public class Run {
-    int x;
+    int y;
 }
